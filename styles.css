@@ -30,3 +30,32 @@ html {
     align-items: center;
     padding: 2rem 0;
 }
+.customer-support{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+.customer-support i{
+font-size: 3.3rem;
+
+}
+.content-customer-support{
+    display: flex;
+    flex-direction: column;
+}
+.container-logo{
+    display: flex;
+    align-items: center;
+    gap: 5rem;
+}
+
+.container-logo i{
+    font-size: 3rem;
+}
+.container-logo h1 a{
+    text-decoration: none;
+    color: seagreen;
+    font-size: 3rem;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+}
